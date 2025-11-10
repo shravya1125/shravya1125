@@ -28,7 +28,6 @@
 | 🌿 **Plant Disease Detection (VGG19)** | Identifies plant diseases from leaf images using transfer learning and TensorFlow. | TensorFlow, Flask |
 | 💬 **Toxic Comment Detection (NLP)** | Detects and classifies toxic or abusive language using deep learning. | Python, NLP |
 | 🧮 **DSA Visualizer Web App** | Interactive tool to visualize algorithms and data structures in real time. | React, D3.js |
-| 📱 **React Native Mobile App (Freelance)** | Cross-platform mobile app built using React Native and TypeScript, integrated with REST APIs. | React Native, TypeScript |
 
 ---
 
@@ -50,9 +49,5 @@
 
 ---
 
-### 📫 Connect With Me  
-🌐 [LinkedIn](#) &nbsp; | &nbsp; 💻 [Portfolio](#) &nbsp; | &nbsp; 📧 shreyasati@email.com  
-
----
 
 ⭐ **“Building intelligent systems that make life simpler, smarter, and more human.”**
