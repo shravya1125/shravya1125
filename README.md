@@ -52,6 +52,5 @@
 
 ### 💬 Let’s Connect
 📫 Email: rsati0125@gmail.com    
-🔗 [LinkedIn](https://linkedin.com/in/shreya-s-5685232ab)
 
 ⭐ **“Building intelligent systems that make life simpler, smarter, and more human.”**
