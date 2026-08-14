@@ -1,56 +1,58 @@
 <h1 align="center">👋 Hi, I’m <span style="color:#4CAF50">Shreya Sati</span></h1>
-<h3 align="center">Full-Stack & AI Developer | Building Intelligent Web Systems with Flask, React, and ML</h3>
 
----
+Computer Science graduate interested in AI/ML, backend development, and full-stack applications.
 
-### 🧠 About Me  
-🚀 Passionate about building intelligent, data-driven systems that merge **Machine Learning, Automation, and Web Development**.  
-💡 Skilled in creating end-to-end solutions using **Flask, FastAPI, React, and TensorFlow**, with experience in **AWS and MLOps**.  
-🎯 Focused on solving real-world problems through risk-aware algorithms, scalable APIs, and human-centered design.  
-🌱 Currently exploring **Generative AI, AI Agents, and Advanced MLOps pipelines**.  
+I build practical projects using Python, FastAPI, Flask, JavaScript, React, and machine-learning frameworks.
 
----
+## Featured Projects
 
-### 🧩 Tech Stack  
-**Languages:** Python · JavaScript · TypeScript · HTML · CSS  
-**Frameworks:** Flask · FastAPI · React · React Native · Node.js  
-**ML/AI Tools:** TensorFlow · scikit-learn · Pandas · NumPy · NLP  
-**DevOps/MLOps:** Docker · AWS · Render · Hugging Face  
-**Frontend Libraries:** Chart.js · TailwindCSS · Bootstrap  
+### 🏴‍☠️ AI Pirate Assistant
+Voice-enabled AI assistant built with FastAPI, Gemini, AssemblyAI, and Murf.
 
----
+- Voice input and speech-to-text
+- LLM-powered responses
+- Text-to-speech
+- Weather and news integrations
+- Deployed on Render
 
-### 🚀 Featured Projects  
+[View Repository](https://github.com/shravya1125/AI-Pirate-Assistant)
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🏥 **Dynamic Hospital Resource Management System** | Intelligent hospital management platform with ML-based patient risk prioritization, Flask APIs, interrupt-driven scheduling, and live Chart.js dashboard. | Flask, ML, JS, HTML/CSS |
-| 🎙️ **AI Pirate Voice Assistant (“Captain Blackbeard”)** | Built a real-time Voice AI Agent using that converses naturally, generates dynamic speech, and streams responses in real time. | FastAPI, Gemini LLM, Murf TTS, and WebSockets |
-| 🌿 **Plant Disease Detection (VGG19)** | Identifies plant diseases from leaf images using transfer learning and TensorFlow. | TensorFlow, Flask |
-| 💬 **Toxic Comment Detection (NLP)** | Detects and classifies toxic or abusive language using deep learning. | Python, NLP |
-| 🧮 **DSA Visualizer Web App** | Interactive tool to visualize algorithms and data structures in real time. | React, D3.js |
+### 🏥 Dynamic Hospital Resource Allocation
+ML-assisted hospital resource allocation system combining patient risk prediction with rule-based resource allocation.
 
----  
+- Decision Tree risk classification
+- Flask REST APIs
+- Emergency priority handling
+- Interactive Chart.js dashboard
 
-### 🧠 Areas of Interest  
-- AI Agents & LLM Integration  
-- MLOps & Model Deployment  
-- Intelligent Web Dashboards  
-- Voice + Chat Interfaces  
-- Cloud & DevOps (AWS, Docker)  
+[View Repository](https://github.com/shravya1125/Dynamic-Hospital-Resource-Allocation)
 
----
+### ⚡ Energy Demand Forecasting
+Hourly electricity-demand forecasting project using Random Forest and LSTM with a Streamlit interface.
 
-### 🏆 Certifications
-- AWS Certified Machine Learning – Plan  
-- AWS DevOps Engineer – Learning Plan  
-- MLOps: From Model Development to Deployment (Udemy)  
-- Machine Learning with Python (Udemy)  
-- Mastercard Cybersecurity Job Simulation (Forage)
+[View Repository](https://github.com/shravya1125/Energy-Demand-Forecasting)
 
----
+## Technical Interests
 
-### 💬 Let’s Connect
-📫 Email: rsati0125@gmail.com    
+- Python & Backend Development
+- REST APIs
+- Machine Learning
+- AI Applications
+- Data Structures & Algorithms
+- Web Development
 
-⭐ **“Building intelligent systems that make life simpler, smarter, and more human.”**
+## Tech Stack
+
+**Languages:** Python, C++, JavaScript, SQL, C
+
+**Backend:** FastAPI, Flask, REST APIs
+
+**Frontend:** React, HTML, CSS
+
+**AI/ML:** TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy
+
+**Tools:** Git, GitHub, Docker, Streamlit, Render
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/shreya-s-5685232ab/)
